@@ -1,0 +1,46 @@
+h1 {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+}
+.nazwastrony {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 30.52px;
+}
+h3 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16.41px;
+}
+.tekst {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.odnośnik {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16.41px;
+}
+h5 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18.75px;
+}
+h6 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.75px;
+}
+.wrapper {
+  background: #2f303a;
+  color: #ffffff;
+}
